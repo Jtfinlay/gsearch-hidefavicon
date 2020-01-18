@@ -23,7 +23,7 @@ Or create production build with:
 yarn build
 ```
 
-Load extension into Chrome using [extension manager](https://lmgtfy.com/?q=chrome+load+local+extension&s=k), by pointing to the generated `dist\` folder. Reload extension after making any changes.
+Load extension into Chrome using [extension manager](https://lmgtfy.com/?q=chrome+load+local+extension), by pointing to the generated `dist\` folder. Reload extension after making any changes.
 
 
 ### Attributions
