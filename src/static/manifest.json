@@ -1,6 +1,6 @@
 {
     "name": "Hide Google Search Favicons",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Hide favicons from your Google Search results! Less cluttered, less painful.",
     "content_scripts": [
         {
